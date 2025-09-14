@@ -1,5 +1,5 @@
 ## Hi there 👋
-# I am Sayan Dutta🙋🏽‍♂️ Full-Stack (MERN) Developer and Programmer
+# I am Sayan Dutta🙋🏽‍♂️ Full-Stack | TypeScript Developer and Programmer
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=runtime-terror-63)
 
 
